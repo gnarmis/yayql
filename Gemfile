@@ -5,6 +5,8 @@ gem 'activerecord'
 
 gem 'sqlite3'
 
+gem 'tilt'
+
 group :development do
   gem 'pry'
   gem 'pry-doc'

@@ -1,0 +1,1 @@
+SELECT * FROM users where name = <%= name %>;
