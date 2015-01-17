@@ -1,0 +1,7 @@
+
+grammar SqlQueries
+  rule whitespace
+    (' ' | '\t')+
+  end
+
+end

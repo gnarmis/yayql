@@ -1,1 +1,6 @@
 db/dev.db
+.tags
+.tags*
+log
+.DS_Store
+tmp
